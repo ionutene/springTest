@@ -1,6 +1,10 @@
 HELP.md
 target/
+.mvn
 !.mvn/wrapper/maven-wrapper.jar
+mvnw.cmd
+mvnw
+spring.iml
 !**/src/main/**/target/
 !**/src/test/**/target/
 
